@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/advanced-frontend-course-hw18/static/css/main.073c9b0a.css",
+    "main.js": "/advanced-frontend-course-hw18/static/js/main.0d694e42.js",
+    "index.html": "/advanced-frontend-course-hw18/index.html",
+    "main.073c9b0a.css.map": "/advanced-frontend-course-hw18/static/css/main.073c9b0a.css.map",
+    "main.0d694e42.js.map": "/advanced-frontend-course-hw18/static/js/main.0d694e42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0d694e42.js"
+  ]
+}
